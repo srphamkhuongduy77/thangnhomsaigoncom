@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
+Thang Nhôm Sài Gòn - TOP mẫu thang nhôm bán chạy nhất - thangnhomsaigon.com
 ===================================
+`Thang Nhôm Sài Gòn <https://thangnhomsaigon.com/>`_ - Nhà phân phối thang nhôm bao gồm thang inox, thang nhôm, giường xếp, ghế xếp. Các sản phẩm này được cung cấp từ các thương hiệu như Poongsan, Nakata, Sumika, Nikawa, và Nikata.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Thang nhôm có 2 mẫu như thang nhôm rút đa năng chữ A, thang nhôm gấp 4 đoạn nhập khẩu Hàn Quốc. Thang inox cũng có nhiều lựa chọn từ rút đôi đến thang rút đơn, phục vụ nhu cầu khác nhau. Giường xếp và ghế xếp cũng đa dạng với các loại từ thép đến inox, phục vụ cho văn phòng và du lịch. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Khách hàng có thể mua hàng trực tuyến hoặc tới cửa hàng để xem và kiểm tra sản phẩm, đảm bảo chính hãng và được hỗ trợ kỹ thuật 24/7.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 466/31 Tân Kỳ Tân Quý, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 72000. 
 
-Contents
---------
+Phone: 0989544625. 
 
-.. toctree::
+Email: cskh@thangnhomsaigon.com. 
 
-   usage
-   api
+Website: https://thangnhomsaigon.com/
+
+Thang nhôm chữ A: https://thangnhomsaigon.com/thang-nhom-chu-a/
+
+#thangnhom #thangnhomsaigon #trangchuthanhnhomsaigon #cuahangthangnhomsaigon #thangnhomchua
